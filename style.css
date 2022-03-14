@@ -1,0 +1,121 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+
+.header {
+       background-image: url(images/header1.jpg);
+       background-repeat: no-repeat;
+       background-size: cover;
+       height: 30rem;
+       width: 100%;
+      
+}
+
+
+
+.nav {
+    display: flex;
+    justify-content: center;
+     width: 100vw;
+     height: 3.6rem;
+     opacity: 0.5;
+     background-color: rgb(21, 2, 37);
+    
+     
+     
+    
+}
+
+.items {
+    display: flex;
+    list-style: none;
+    padding-top: 0.8rem;
+  
+}
+
+.items a {
+    text-decoration: none;
+    margin: 2rem;
+    font-size: 1.4rem;
+    color: rgb(255, 255, 255);
+    padding:0.5rem;
+}
+    
+
+
+.items a:hover {
+    background-color: rgb(16, 145, 44);
+    border-radius: 10px;
+}
+
+.list{
+
+    color: red;
+}
+/****************nav work end here ****/
+/****************nav work end here ****/
+/****************nav work end here ****/
+/****************nav work end here ****/
+
+header .green {
+    text-align: center;
+    padding-top: 3.5rem;
+    
+}
+
+header .green h1 {
+    font-size: 4rem;
+    text-transform: capitalize;
+}
+
+header .green h3 {
+
+    padding-top: 0.4rem;
+    padding-bottom: 2rem;
+    text-transform: capitalize;
+
+}
+
+header .green input {
+    margin-left: 10rem;
+    width: 30vw;
+    height: 5vh;
+    padding-left: 10.5rem;
+    
+}
+header .green button {
+    width: 10vw;
+    height: 5vh;
+    margin-left: 1rem;
+    border-radius: 0.9rem;
+    border: 1px solid rgb(87, 192, 110);
+    background-color: rgb(87, 192, 110);
+
+}
+
+/*******************header work completed here***/
+/*******************header work completed here***/
+/*******************header work completed here***/
+/*******************header work completed here***/
+section {
+    box-sizing: border-box;
+
+
+}
+.phone{
+    display: flex;
+    padding-top: 5rem;
+    justify-content: center;
+}
+
+.phone p {
+
+    margin-left: 5rem;
+    margin-top: 2rem;
+    width: 40vw;
+
+}
