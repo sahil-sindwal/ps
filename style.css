@@ -12,6 +12,7 @@
        background-size: cover;
        height: 30rem;
        width: 100%;
+       z-index:-1;
       
 }
 
@@ -24,6 +25,7 @@
      height: 3.6rem;
      opacity: 0.5;
      background-color: rgb(21, 2, 37);
+     z-index:1;
     
      
      
